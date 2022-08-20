@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.grid {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 70vh;
+  height: 70vh;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex: 1 1;
+}
+
+.colorBox {
+  flex: 1 1;
+}
